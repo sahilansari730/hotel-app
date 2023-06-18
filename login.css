@@ -1,0 +1,80 @@
+body
+{
+ background-image: url('Images/login.jpg');
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+.container
+{
+    width: 380px;
+    margin: 7% auto;
+    background-color: rgba(0,0,0,0.1);
+    border-radius: 25px;
+    box-shadow: 0 0 20px #333;
+}
+.header
+{
+    text-align: center;
+}
+.header h2
+{
+    color: #333;
+    margin-bottom: 40px;
+}
+.main
+{
+    text-align: center;
+}
+.main input
+{
+    width: 300px;
+    height: 40px;
+    border: none;
+    outline: none;
+    padding-left: 40px;    
+    box-sizing: border-box;
+    font-size: 15px;
+    color: #333;
+    margin-bottom: 40px;
+    border-radius: 5px;
+   
+}
+.main button
+{
+    border-radius: 5px;
+    font-size: 15px;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    width: 150px;
+    height: 40px;
+    padding-left: 0px;
+    margin-left: 0px;
+    background-color: darkred;
+    color: white;
+    letter-spacing: 1px;
+    font-weight: bold;
+    margin-bottom: 70px;
+}
+.main button:hover,input:hover
+{
+  background-color: darkorange;
+  box-shadow: 2px 2px 5px #555;
+}
+.main input:hover
+{
+  box-shadow: 2px 2px 5px #555;
+  background-color: #ddd;
+}
+.main span
+{
+    position: relative;
+}
+.main i
+{
+    position: absolute;
+    left: 15px;
+    color: #333;
+    font-size: 15px;
+    top: 2px;
+}

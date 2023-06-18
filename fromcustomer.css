@@ -1,0 +1,25 @@
+#customer
+{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.6)),url(Images/cust3.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.head
+{
+    color: white;
+}
+ #jess {
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 700;
+    color:gold;
+}
+.checked
+{
+    color: darkorange;
+   
+}
+#s1
+{
+    font-size: 25px;
+}

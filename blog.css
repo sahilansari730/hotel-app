@@ -1,0 +1,56 @@
+.container 
+{
+   margin-top: 50px;
+    
+}
+
+.caption .admin
+{
+    border-bottom: 1px solid #000;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+.caption ul
+{
+  list-style-type: none;
+}
+
+.caption li
+{
+  float: left;
+}
+.caption p
+{
+ text-align: justify;
+}
+.main input
+{
+   border:1px solid #d58512;
+   height: 50px;
+   width: 300px;
+   padding: 0px 11px;
+   outline: none;
+   border-radius: 2px;
+}
+#se
+{
+    text-align: center;
+    background-color:#d58512;
+    color: white;
+   height: 50px; 
+    width: 60px;
+    position: absolute;
+    top: 63px;
+    left: 277px;
+    border-radius: 5px;
+    
+}
+.solid
+{
+    border-style:solid;
+    border-width: 1px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-color: #d58512;
+   
+}

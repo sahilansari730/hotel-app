@@ -1,0 +1,436 @@
+ 
+ #h
+ {
+     font-size: 50px; 
+     position: relative;
+     left: 500px;
+     top: 400px;
+ }
+ #lg1
+ {
+     font-size: 70px;
+     color: #d69d5a; 
+ }
+ 
+ #sa
+ {
+     font-size: 25px;
+     text-align: center;
+     padding-top: 20px
+ }
+ #a1
+ {
+     
+    color: #3b5998;
+    font-size: 25px;
+    margin: 0 5px;
+    margin-top: 0px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+ }
+ 
+ #a2
+ 
+ {
+     color: #1da1f2;
+    font-size: 25px;
+    margin: 0 5px;
+    margin-top: 0px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+    margin-left: 5px; 
+ }
+ 
+ #a3
+ {
+     color: #0077b5;
+    font-size: 25px;
+    margin: 0 5px;
+    margin-top: 0px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+ }
+
+ 
+/*
+    Serviecs
+*/
+
+ #ser1
+{
+   color:gold; 
+}
+#log1
+{
+    background: white;
+}
+
+#log2
+{
+    background: white;
+    padding: 0px;
+    height: 300px;
+    width: 300px;
+     
+}
+
+  #log3
+  {
+     font-size: 40px;
+     color: #d69d5a;
+    
+  }
+ 
+   /*
+  Accommodation Single
+  */
+  
+   #ac
+ {
+     background-image: url("images/sp1.jpg");
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     height:300px;
+ }
+ .admin-list li
+ {
+    display: inline-block;
+    margin: 10px 0px 0px 0;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    width: 44%;
+    font-size: 16px;
+    line-height: 24px;
+    list-style-type: none;
+ }
+ #sr1
+ {
+    font-size: 40px;
+    color: blue;
+    margin-bottom: 50px;
+    padding-left: 90px;
+ }
+ #b1
+ {
+     margin-left: 90px;
+     margin-top:  50px;
+ }
+ .sas
+ {
+     background: #f6f6f6;
+ }
+ 
+ #as1
+ {
+     font-size: 50px;
+     color: #d69d5a;
+ }
+  #accs1
+  { 
+     font-size: 40px;
+     color: #d69d5a;
+     display: grid; 
+  }
+  
+  .grids-speci p
+  { 
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  .grids-speci
+  {
+    
+     padding-top: 28px; 
+     padding-bottom: 28px; 
+     border: solid 1px #ccc;
+     text-align: center;
+  }
+  
+   label.thumbnailImage
+   {
+       height: 50px;
+       width: 205px;
+       margin-left: 6px;
+        
+   }
+   
+   .img-responsive
+   {
+      
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;  
+    margin-top: 12px;
+   }
+   
+  .title-text
+  {
+      display: grid;
+  }
+  
+  ul li
+  {
+      margin-bottom: 15px;
+  }
+  
+  
+  /*
+   Team Single
+  */
+  
+  
+  #ts1
+ {
+     background-image: url("images/ac3.jpg");
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     height:300px;
+ } 
+  
+ #ser1
+ {
+     color: red;
+ }
+ #mypic
+ {
+     height: 400px; 
+ }
+ 
+  .album-top
+ {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    
+    column-gap: 10px;
+    margin-top: 30px;
+    
+    
+ }
+  .img-responsive
+  {
+      height: 200px; 
+  }
+  
+   /*
+   Faq
+   */
+ #faq
+ {
+     background-image: url("images/faq.jpg");
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     height: 400px;
+ }
+  #faq1
+  {
+      background: white;
+      padding: 6rem;
+      font-family: sans-serif;
+  }
+  .title
+  {
+      margin-bottom: 2rem;
+      font-size: 2rem;
+  }
+  hr
+  {
+      margin: 1rem 0;
+  }
+  details
+  {
+      padding: 0 1rem;
+  }
+  details > summary
+  {
+      display: flex;
+      justify-content:space-between;
+      padding: 1rem;
+      font-size: 1.25rem;
+      cursor: pointer;
+      list-style: none;  
+  }
+  
+  /*
+    Ecommerce
+  */
+  
+  #Ecom
+  {
+     background-image: url("images/faq.jpg");
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     height: 400px;
+ }
+ #gal
+ {
+     background-color: #ffffff;
+     padding: 30px;
+     border-radius: 5px;
+     margin-left: 20px;
+ }
+ .gal1
+ {
+    margin-left: 200px;
+    padding-top: 30px;
+ }
+ #ecombtn
+ {
+     background-color: darkred;
+     color: white;
+     height: 50px;
+     width: 150px;
+ }
+ #ecombtn:hover
+ {
+     background-color: darkorange;
+     
+ }
+ 
+ 
+  .our
+  {
+      background: #f6f6f6;
+      font-size: 45px;
+      font-weight: bold;
+      letter-spacing: 2px;
+  }
+  #ecom2
+  {  
+      padding-left: 150;
+      background: white;
+  }
+  
+  #ecom3
+  {
+      padding-left: 250px;
+       background: white;
+  }
+  
+  /*
+    Shop Single
+  */
+  
+  #shopsingle
+  {
+     background-image: url("images/faq.jpg");
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     height: 400px;
+  }
+  input#quantity
+  {
+    padding: 10px;
+    max-width: 65px;
+    border: 1px solid #777777; 
+    line-height: 40px;
+    height: 45px;
+    border-radius: 4px;
+  }
+  
+  #shopb1
+  { 
+    color: #fff;
+    text-decoration: none;
+    width: 170px;
+    display: inline-block;
+    height: 45px;
+    line-height: 30px;
+    text-align: center;
+    margin-left: 10px;
+    font-size: 16px;
+    border-radius: 4px;
+  }
+  .button-footr
+  {
+      padding-top: 8px;
+    width: 36px;
+    height: 36px; 
+    display: inline-block;
+    background: #d69d5a;
+    text-align: center;
+    color: #fff;
+    margin-right: 0.3em;
+    border-radius: 50%;
+  }
+  /*
+    Contact
+  */
+  #cont
+  {
+     background-image: url("images/faq.jpg");
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     height: 400px;
+  }
+  #socialicon
+  {
+      padding-top: 10px;
+    width: 25px;
+    color:  darkorange;
+    font-size: 18px;
+    text-align: center;
+    margin-right: 10px;
+  }
+  .map 
+  {
+      width: 100%;
+      height:400px;
+  }
+  #socialicon2
+  {
+    color: #fff; 
+    background:  darkorange;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    display: inline-block;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 50%;
+    margin: 5px;
+  }
+  
+  .contact3
+  {
+      padding-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 15px;
+  }
+  .contact-input
+  {
+    margin-bottom: 20px;
+    background: #fff;
+    outline: none;
+    border-radius: 4px;
+    width: 100%;
+    font-size: 16px; 
+    -webkit-appearance: none;
+    padding: 15px 14px;
+    border: 1px solid #dedede;
+  }
+  .message
+  {
+      width: 100%;
+      height: 100px;
+  }
+  #submit
+  {
+     background:  #d69d5a; 
+     height: 50px;
+     width: 120px;
+     font-size: 22px;
+  }
+  
+   #submit:hover
+   {
+       background: blue;
+   }
